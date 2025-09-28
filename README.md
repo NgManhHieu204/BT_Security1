@@ -41,6 +41,13 @@ _____
 
    - C++
 
+      - Mã hóa
+   
+      <img width="321" height="535" alt="Screenshot 2025-09-28 154529" src="https://github.com/user-attachments/assets/fc50d937-4185-49ca-91a8-7d10b7ca9029" />
+
+      - Giải mã
+
+      <img width="336" height="550" alt="image" src="https://github.com/user-attachments/assets/68279743-3766-45c1-8a17-b34b586ac831" />
 
 2. Affine
 
@@ -75,6 +82,14 @@ _____
        <img width="658" height="792" alt="image" src="https://github.com/user-attachments/assets/e7583e7c-d38d-4210-8420-3b30c1958966" />
 
     - C++
+
+      - Mã hóa
+   
+      <img width="352" height="539" alt="image" src="https://github.com/user-attachments/assets/406df3ab-3210-414c-a3aa-f00e8ab47d1a" />
+
+      - Giải mã
+
+      <img width="344" height="554" alt="image" src="https://github.com/user-attachments/assets/821def48-5676-46e7-b0f8-9e9164ba28c0" />
    
 3. Hoán vị
 
@@ -112,6 +127,14 @@ _____
 
     - C++
 
+      - Mã hóa
+   
+      <img width="450" height="559" alt="image" src="https://github.com/user-attachments/assets/be3d719e-11c7-4db4-b245-58c7232b4a7c" />
+
+      - Giải mã
+
+      <img width="460" height="539" alt="image" src="https://github.com/user-attachments/assets/47442870-3cc7-4b3d-93fa-66401b207b02" />
+
 4. Vigenère
 
    Tên gọi: Vigenère cipher — polyalphabetic substitution
@@ -145,6 +168,14 @@ _____
        <img width="689" height="777" alt="Screenshot 2025-09-28 133848" src="https://github.com/user-attachments/assets/2430ecdc-a0be-48d4-b1a6-28d861670e23" />
 
     - C++
+
+      - Mã hóa
+   
+      <img width="351" height="519" alt="image" src="https://github.com/user-attachments/assets/747c33a7-2fec-44bd-9916-dc94e88114f5" />
+
+      - Giải mã
+    
+      <img width="344" height="528" alt="image" src="https://github.com/user-attachments/assets/f2af18a0-9561-4f5b-8307-b571ae3b64a0" />
 
 5. Playfair
 
@@ -183,4 +214,11 @@ _____
        <img width="618" height="787" alt="Screenshot 2025-09-28 134238" src="https://github.com/user-attachments/assets/01b95a2c-f52d-443c-a7ee-9fc31789b537" />
 
     - C++
+
+      - Mã hóa
    
+      <img width="364" height="525" alt="image" src="https://github.com/user-attachments/assets/00223951-73d3-449e-804c-56b7f71a4042" />
+
+      - Giải mã
+      
+      <img width="354" height="526" alt="image" src="https://github.com/user-attachments/assets/015802f3-90a3-4b4f-a01d-8f80072a0c09" />
