@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Mã hóa Affine Cipher</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Affine Cipher</h1>
+
+    <label for="a">a (gcd(a,26)=1):</label>
+    <input type="number" id="a" placeholder="Nhập a">
+
+    <label for="b">b:</label>
+    <input type="number" id="b" placeholder="Nhập b">
+
+    <label for="inputText">Nội dung:</label>
+    <textarea id="inputText" placeholder="Nhập văn bản"></textarea>
+
+    <div class="btn-group">
+      <button id="encodeBtn">Mã hóa</button>
+      <button id="decodeBtn">Giải mã</button>
+    </div>
+
+    <h3>Kết quả:</h3>
+    <textarea id="outputText"  readonly></textarea>
+  </div>
+
+  <script src="script.js"></script>
+
+  <footer class="footer">© 2025 Nguyễn Mạnh Hiếu</footer>
+
+</body>
+</html>
